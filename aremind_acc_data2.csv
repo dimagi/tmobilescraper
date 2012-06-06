@@ -1,0 +1,4 @@
+Number,Password,Last Login,Successful Login,Current Balance,Expires On,Is Autorefill,Next Autorefill,Autorefill Amount,Did Autorefill This Time,Amount Topped Up,Account Locked
+8222222222,SOME_PASSWORD,2012-06-06 17:59:28.612000,True,43.34,7/20/2012 9:00:00 PM,True,,10.00,False,,False
+6176928888,SOME_PASSWORD,2012-06-06 17:59:52.057000,True,43.34,7/20/2012 9:00:00 PM,True,,10.00,False,,False
+1111111111,SOME_PASSWORD,2012-06-06 18:00:16.556000,True,43.34,7/20/2012 9:00:00 PM,True,,10.00,False,,False
